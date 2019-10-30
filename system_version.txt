@@ -1,7 +1,0 @@
-====================VIP INF====================
- ||  Version   :   Meizu 8.1.2.0G
- ||  cp Version:   FM_BASE_17B_Release_W18.31.3_P21|sc9832e_modem|11-20-2018 20:05:24
- ||  sim state :   READY,ABSENT
- ||  net type  :   LTE,Unknown
- ||  sim type  :   airtel
- ====================  END  ====================
